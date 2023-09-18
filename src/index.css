@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Krinkes";
+    src: url("/fonts/KrinkesDecor.ttf");
+  }
+  
+  @font-face {
+    font-family: "KrinkesRegular";
+    src: url("/fonts/KrinkesRegular.ttf");
+  }
+  
+  @font-face {
+    font-family: "Fira";
+    src: url("/fonts/Fira.ttf");
+  }
+  @font-face {
+    font-family: "Athletic";
+    src: url("/fonts/Athletic.TTF");
+  }
+  
+  @font-face {
+    font-family: "Amazon";
+    src: url("/fonts/Amazon.otf");
+  }
+  
+  @font-face {
+    font-family: "BebasNeue";
+    src: url("/fonts/BebasNeue.otf");
+  }
+  @font-face {
+    font-family: "BebasNeueBold";
+    src: url("/fonts/BebasNeueBold.otf");
+  }
